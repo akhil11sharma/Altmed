@@ -1,0 +1,58 @@
+[
+    {
+        "medicine_name": "Paracetamol",
+        "available_medicines": [
+            {
+                "Substitute #": "Substitute 1",
+                "Medicine": "Diclowin Plus Tablet",
+                "Side Effects": "Nausea",
+                "Use": " Pain relief",
+                "Habit Forming": "No",
+                "Therapeutic Class": "PAIN ANALGESICS",
+                "Availability": "Yes"
+            }
+        ]
+    },
+    {
+        "medicine_name": "Crocin",
+        "available_medicines": [
+            {
+                "Substitute #": "Substitute 2",
+                "Medicine": "Aekil Plus Tablet",
+                "Side Effects": "Nervousness",
+                "Use": "Treatment of Headache",
+                "Habit Forming": "No",
+                "Therapeutic Class": "PAIN ANALGESICS",
+                "Availability": "Yes"
+            }
+        ]
+    },
+    {
+        "medicine_name": "Crocin",
+        "available_medicines": [
+            {
+                "Substitute #": "Substitute 2",
+                "Medicine": "Aekil Plus Tablet",
+                "Side Effects": "Nervousness",
+                "Use": "Treatment of Headache",
+                "Habit Forming": "No",
+                "Therapeutic Class": "PAIN ANALGESICS",
+                "Availability": "Yes"
+            }
+        ]
+    },
+    {
+        "medicine_name": "Dolo 500 mg",
+        "available_medicines": [
+            {
+                "Substitute #": "Substitute 1",
+                "Medicine": "Mogesic MR Tablet",
+                "Side Effects": "Nausea",
+                "Use": "Treatment of Pain due to muscle spasm",
+                "Habit Forming": "No",
+                "Therapeutic Class": "PAIN ANALGESICS",
+                "Availability": "Yes"
+            }
+        ]
+    }
+]
